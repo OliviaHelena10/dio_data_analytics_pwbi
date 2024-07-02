@@ -20,72 +20,58 @@ Conhecendo e explorando o Power Bi, linguagem SQL e versionamento de código com
 
 Noções introdutórias sobre o Power Bi Desktop, gráficos, visualizações, mobile, construção de relatórios com bases de dados simples.
 
-- Desafio de código 1 e desafio de projeto 1.
+- Desafio de projeto 1: "Analisando dados de um Dashboard de Vendas no Power BI".
+
+  Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_1.pdf
+
+- Desafio de código 1.
 
 ### Módulo 3: Visualização de Dados e relatórios com Power Bi - Intermediário
 Aprofundamento nas visualizações do Power Bi, fundamentos de KPIs e métricas.
 
-- Desafio de código 2 e desafio de projeto 2.
+- Desafio de projeto 2: "Criando Um Relatório Gerencial de Vendas com Power BI".
+
+  Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_2.pdf
+  
+  OBS: Como houve um problema com um dos gráficos, segue separadamente o bloco faltante no pdf acima -  https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/soma_prfit_por_product.jpg
+
+- Desafio de código 2:.
 
 ### Módulo 4: Processamento de dados com Power Bi - Intermediário
 Puxar base de dados MySQL
 
-- Desafio de projeto 2.
+- Desafio de projeto 3:
+
+  Disponível em:
+
+- Desafio de código 3:
 
 ### Módulo 5: Modelagem de Dados com Power Bi - Intermediário
 
-- Desafio de projeto 3 e 4.
+- Desafio de projeto 4:
+
+  Disponível em:
+
+- Desafio de código 4:
 
 ### Módulo 6: Data Analytics e Storytelling com Power Bi - Avançado
 
-- Desafio de projeto 5 e 6.
+- Desafio de projeto 5:
+
+  Disponível em:
+
+- Desafio de código 5:
+
+- Desafio de projeto 6:
+
+  Disponível em:
+
+- Desafio de código 6:
 
 ### Módulo 7: Gerenciamento de WOrkspaces e Datasets com Power Bi - Avançado
 
-- Desafio de projeto 7.
+- Desafio de projeto 7:
 
-## Desafios de Código e Projeto:
+  Disponível em:
 
-### Desafio de projeto 1: Analisando dados de um Dashboard de Vendas no Power BI
-
-Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_1.pdf
-
-### Desafio de código 1: Criando Um Relatório Gerencial de Vendas com Power BI. 
-
-### Desafio de projeto 2:
-
-Disponível em:
-
-### Desafio de código 2:
-
-### Desafio de projeto 3:
-
-Disponível em:
-
-### Desafio de código 3:
-
-### Desafio de projeto 4:
-
-Disponível em:
-
-### Desafio de código 4:
-
-Disponível em:
-
-### Desafio de projeto 5:
-
-Disponível em:
-
-### Desafio de código 5:
-
-### Desafio de projeto 6:
-
-Disponível em:
-
-### Desafio de código 6:
-
-### Desafio de projeto 7:
-
-Disponível em:
-
-### Desafio de código 7:
+- Desafio de código 7:
