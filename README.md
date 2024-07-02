@@ -1,6 +1,7 @@
 # Data Analytics com Power BI - DIO
 
-Neste repositório estão os desafios de projeto dos cursos de análise de dados da Digital Inovation One.  
+Neste repositório estão os desafios de projeto dos cursos de análise de dados da Digital Inovation One. Todos eles foram realizados com o Power BI Desktop visando nas habilidades e técnicas necessárias para trabalhar com análise de dados, todos os dashboards e relatórios podem ser acessados neste repositório ou através dos links abaixo.
+OBS: Quando importei meus projetos em pdf para postar aqui, algumas usabilidades e visualizações ficaram ruins, pois só funcionam dentro do Power BI.
 
 
 ## Detalhes do bootcamp
