@@ -39,13 +39,11 @@ Aprofundamento nas visualizações do Power Bi, fundamentos de KPIs e métricas.
 - Desafio de código 2:.
 
 ### Módulo 4: Processamento de dados com Power Bi - Intermediário
-Puxar base de dados MySQL
+Coleta e extração de dados usando MySQL e Azure, limpeza de dados e transformação de dados com Powe Query.
 
-- Desafio de projeto 3:
+- Desafio de projeto 3: Criando um Dashboard Corporativo com Integração com MySQL e Azure
 
-  Disponível em:
-
-- Desafio de código 3:
+  Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_3.pdf
 
 ### Módulo 5: Modelagem de Dados com Power Bi - Intermediário
 
