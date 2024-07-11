@@ -25,7 +25,7 @@ Noções introdutórias sobre o Power Bi Desktop, gráficos, visualizações, mo
 
   Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_1.pdf
 
-- Desafio de código 1.
+- Desafio de código 1: Básico 1 - Data Analytics.
 
 ### Módulo 3: Visualização de Dados e relatórios com Power Bi - Intermediário
 Aprofundamento nas visualizações do Power Bi, fundamentos de KPIs e métricas.
@@ -36,41 +36,43 @@ Aprofundamento nas visualizações do Power Bi, fundamentos de KPIs e métricas.
   
   OBS: Como houve um problema com um dos gráficos, segue separadamente o bloco faltante no pdf acima -  https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/soma_prfit_por_product.jpg
 
-- Desafio de código 2:.
+- Desafio de código 2: Básico 2 - Data Analytics.
+
 
 ### Módulo 4: Processamento de dados com Power Bi - Intermediário
 Coleta e extração de dados usando MySQL e Azure, limpeza de dados e transformação de dados com Powe Query.
 
-- Desafio de projeto 3: Criando um Dashboard Corporativo com Integração com MySQL e Azure
+- Desafio de projeto 3: Criando um Dashboard Corporativo com Integração com MySQL e Azure.
 
   Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_3.pdf
 
 ### Módulo 5: Modelagem de Dados com Power Bi - Intermediário
+Modelagem dimensional, relacionamentos, Star Schema, Snowflake Schema, hierarquia e granularidade de dados, linguagem M e DAX.
 
-- Desafio de projeto 4:
+- Desafio de projeto 4: Dashboard de Vendas com Power BI utilizando Star Schema.
 
-  Disponível em:
+  Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_4.jpg
 
-- Desafio de código 4:
+- Desafio de projeto 5: Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX.
+  
+  Disponível em: 
 
 ### Módulo 6: Data Analytics e Storytelling com Power Bi - Avançado
-
-- Desafio de projeto 5:
-
-  Disponível em:
-
-- Desafio de código 5:
 
 - Desafio de projeto 6:
 
   Disponível em:
 
-- Desafio de código 6:
-
-### Módulo 7: Gerenciamento de WOrkspaces e Datasets com Power Bi - Avançado
-
 - Desafio de projeto 7:
 
   Disponível em:
 
-- Desafio de código 7:
+- Desafio de código 3: Intermediário 1 - Data Analytics.
+
+### Módulo 7: Gerenciamento de WOrkspaces e Datasets com Power Bi - Avançado
+
+- Desafio de projeto 8:
+
+  Disponível em:
+
+- Desafio de código 4: Intermediário 2 - Data Analytics.
