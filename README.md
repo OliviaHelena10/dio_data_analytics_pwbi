@@ -61,7 +61,7 @@ Modelagem dimensional, relacionamentos, Star Schema, Snowflake Schema, hierarqui
 
 - Desafio de projeto 6: "Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI"
 
-  Disponível em:
+  Disponível em: https://github.com/OliviaHelena10/dio_data_analytics_pwbi/blob/main/dio_des_projeto_6.pdf
 
 - Desafio de projeto 7: "Criando um Relatório Vendas e Lucros com Data Analytics com Power BI"
 
